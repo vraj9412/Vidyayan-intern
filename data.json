@@ -1,0 +1,50 @@
+[
+{
+    "personalInfo": {
+        "number" : 6353204657,
+        "firstName": "vraj",
+        "lastName" : "patel",
+        "fatherFirstName": "RinkeshKumar",
+        "fatherLastName": "Patel",
+        "gender": "Male",
+        "dob" : "30-03-2001",
+        "email": "vrajpatel97755@gmail.com",
+        "add": "at POR, gandhinagar",
+        "city": "gandhinagar",
+        "pincode": 382421,
+        "type": "Student"
+    },
+    "class": "12",
+    "board": "GSEB"
+},
+
+
+{
+    "personalInfo": {
+        "number" : 6353204657,
+        "firstName": "vraj",
+        "lastName" : "patel",
+        "fatherFirstName": "RinkeshKumar",
+        "fatherLastName": "Patel",
+        "gender": "Male",
+        "dob" : "30-03-2001",
+        "email": "vrajpatel97755@gmail.com",
+        "add": "at POR, gandhinagar",
+        "city": "gandhinagar",
+        "pincode": 382421,
+        "type": "Tutor"
+    },
+    "class": "12",
+    "board": "GSEB",
+    "qualification" : "B.E",
+    "college": "LDRP",
+    "teachingMode": "ONLINE",
+    "currentStatus": "pursuing",
+    "language": "English",
+    "subject": "Math",
+    "timing" : "6am to 7pm",
+    "currentOccupation": "FullTime",
+    "charge" : "400 to 500"
+}
+
+]
